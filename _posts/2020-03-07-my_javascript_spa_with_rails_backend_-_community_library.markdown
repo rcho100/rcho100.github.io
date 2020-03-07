@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Javascript SPA with Rails backend - Community Library"
-date:       2020-03-07 22:59:57 +0000
+date:       2020-03-07 17:59:58 -0500
 permalink:  my_javascript_spa_with_rails_backend_-_community_library
 ---
 
